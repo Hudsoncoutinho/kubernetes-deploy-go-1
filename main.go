@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = "cloudskalena:v99"
+const webContent = "cloudskalena:v98"
 
 func main() {
 	http.HandleFunc("/", helloHandler)
