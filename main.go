@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = "cloudskalena:v98"
+const webContent = "O springboot deu bom:v1"
 
 func main() {
 	http.HandleFunc("/", helloHandler)
