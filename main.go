@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = " *** Hudson Coutinho - DevOps Engineer *** "
+const webContent = " Hudson Coutinho - DevOps Engineer  "
 
 func main() {
 	http.HandleFunc("/", helloHandler)
