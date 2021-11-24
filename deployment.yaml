@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.cloud.skalena.com.br
+  - host: 
     http:
       paths:
         - path: /
